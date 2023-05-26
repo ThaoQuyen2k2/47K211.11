@@ -1,0 +1,530 @@
+.qun-l-nha-cung-cp-child {
+  position: absolute;
+  top: 0;
+  left: 2300px;
+  width: 256px;
+  height: 601px;
+}
+.qun-l-nha-cung-cp-item {
+  position: absolute;
+  top: 40px;
+  left: 1612px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-blueviolet-200);
+  width: 163px;
+  height: 60px;
+}
+.image-56-icon1 {
+  position: absolute;
+  top: 48px;
+  left: 1620px;
+  width: 38px;
+  height: 43px;
+  object-fit: cover;
+}
+.import1 {
+  position: absolute;
+  top: 59px;
+  left: 1683px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 70px;
+  height: 17px;
+}
+.qun-l-nha-cung-cp-inner {
+  position: absolute;
+  top: 40px;
+  left: 1791px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-blueviolet-200);
+  width: 216px;
+  height: 60px;
+}
+.nhp-kho {
+  top: 59px;
+  left: 1845px;
+  color: var(--color-white);
+  width: 166px;
+  height: 17px;
+}
+.b5,
+.hnh-ng4,
+.nhp-kho,
+.showing-1-to4 {
+  position: absolute;
+  display: inline-block;
+}
+.b5 {
+  top: 49px;
+  left: 1798px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  text-align: center;
+  width: 47px;
+  height: 48px;
+}
+.hnh-ng4,
+.showing-1-to4 {
+  top: 600px;
+  left: 1703px;
+  font-size: var(--font-size-base);
+  width: 278px;
+  height: 23px;
+}
+.hnh-ng4 {
+  top: 379px;
+  left: 1700px;
+  font-size: var(--font-size-mid);
+  width: 116px;
+  height: 17px;
+}
+.image-1-icon3 {
+  position: absolute;
+  top: 6px;
+  left: 2007px;
+  width: 29px;
+  height: 26px;
+  object-fit: cover;
+}
+.group-child70 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-dodgerblue-200);
+  width: 183px;
+  height: 51px;
+}
+.image-45-icon,
+.xem {
+  position: absolute;
+  top: 9px;
+}
+.xem {
+  left: 72px;
+  display: inline-block;
+  width: 111px;
+  height: 31px;
+}
+.image-45-icon {
+  left: 6px;
+  width: 55px;
+  height: 33px;
+  object-fit: cover;
+}
+.rectangle-parent28 {
+  position: absolute;
+  top: 492px;
+  left: 1783px;
+  width: 183px;
+  height: 51px;
+  font-size: var(--font-size-6xl);
+}
+.div114,
+.group-child71 {
+  position: absolute;
+  top: 33px;
+  left: 0;
+  width: 1150px;
+  height: 974px;
+}
+.div114 {
+  top: 641.22px;
+  left: 740px;
+  display: inline-block;
+  width: 147px;
+  height: 21.08px;
+}
+.group-child72 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  width: 1076px;
+  height: 633.52px;
+}
+.tng {
+  position: absolute;
+  top: 523.89px;
+  left: 583px;
+  display: inline-block;
+  width: 147px;
+  height: 17.92px;
+}
+.div115,
+.div116,
+.div117,
+.lamborghini1,
+.sp0014,
+.t5,
+.t6 {
+  position: absolute;
+  top: 430.08px;
+  left: 946px;
+  display: inline-block;
+  width: 147px;
+  height: 21.08px;
+}
+.div115,
+.div116,
+.div117,
+.lamborghini1,
+.sp0014,
+.t6 {
+  top: 431.13px;
+  left: 754px;
+}
+.div116,
+.div117,
+.lamborghini1,
+.sp0014,
+.t6 {
+  left: 583px;
+  height: 17.92px;
+}
+.div116,
+.div117,
+.lamborghini1,
+.sp0014 {
+  left: 436px;
+}
+.div117,
+.lamborghini1,
+.sp0014 {
+  left: 252px;
+}
+.div117,
+.sp0014 {
+  top: 434.29px;
+  left: 104px;
+}
+.div117 {
+  left: 14px;
+}
+.group-child73 {
+  position: absolute;
+  top: 328.88px;
+  left: 0;
+  width: 1076px;
+  height: 81.17px;
+  cursor: pointer;
+}
+.gi-nhp1,
+.m-hng-ho,
+.ngy-nhp,
+.s-lng2,
+.stt5,
+.thnh-tin1,
+.tn-hng-ho1 {
+  position: absolute;
+  top: 357.34px;
+  left: 436px;
+  display: inline-block;
+  width: 147px;
+  height: 17.92px;
+}
+.gi-nhp1,
+.m-hng-ho,
+.ngy-nhp,
+.stt5,
+.thnh-tin1,
+.tn-hng-ho1 {
+  left: 584px;
+}
+.m-hng-ho,
+.ngy-nhp,
+.stt5,
+.thnh-tin1,
+.tn-hng-ho1 {
+  left: 754px;
+}
+.m-hng-ho,
+.stt5,
+.thnh-tin1,
+.tn-hng-ho1 {
+  left: 946px;
+}
+.m-hng-ho,
+.stt5,
+.tn-hng-ho1 {
+  left: 252px;
+}
+.m-hng-ho,
+.stt5 {
+  left: 88px;
+}
+.stt5 {
+  top: 359.45px;
+  left: 14px;
+}
+.group-child74 {
+  position: absolute;
+  top: 328.88px;
+  left: 0;
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 1076px;
+  height: 173.93px;
+}
+.chi-tit-nhp {
+  position: absolute;
+  top: 252.99px;
+  left: 22.16px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-midnightblue);
+  display: inline-block;
+  width: 228px;
+  height: 37.95px;
+  transform: rotate(0.27deg);
+  transform-origin: 0 0;
+}
+.a-ch1,
+.chi-tit1,
+.m-nh-cung1,
+.m-t-ok,
+.s-in-thoi1,
+.tn-nh-cung1 {
+  position: absolute;
+  top: 186.58px;
+  left: 25px;
+  display: inline-block;
+  width: 147px;
+  height: 17.92px;
+}
+.a-ch1,
+.chi-tit1,
+.m-nh-cung1,
+.s-in-thoi1,
+.tn-nh-cung1 {
+  top: 157.06px;
+}
+.chi-tit1,
+.m-nh-cung1,
+.s-in-thoi1,
+.tn-nh-cung1 {
+  top: 131.76px;
+  width: 226px;
+}
+.chi-tit1,
+.m-nh-cung1,
+.tn-nh-cung1 {
+  top: 105.41px;
+  left: 24px;
+  width: 204px;
+  height: 18.97px;
+}
+.chi-tit1,
+.m-nh-cung1 {
+  top: 80.11px;
+  left: 25px;
+  width: 182px;
+  height: 17.92px;
+}
+.chi-tit1 {
+  top: 29.52px;
+  left: 25.16px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-midnightblue);
+  width: 228px;
+  height: 37.95px;
+  transform: rotate(0.27deg);
+  transform-origin: 0 0;
+}
+.vector-parent1 {
+  position: absolute;
+  top: 179.52px;
+  left: 17px;
+  width: 1093px;
+  height: 633.52px;
+}
+.quc-phan1 {
+  top: 61px;
+  left: 331px;
+  width: 147px;
+  height: 13.7px;
+}
+.div118,
+.quc-phan1,
+.xem1 {
+  position: absolute;
+  display: inline-block;
+}
+.div118 {
+  top: 59.11px;
+  left: 170px;
+  text-align: center;
+  width: 24px;
+  height: 23.19px;
+}
+.xem1 {
+  top: 9px;
+  left: 95.16px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-midnightblue);
+  width: 228px;
+  height: 37.95px;
+  transform: rotate(0.27deg);
+  transform-origin: 0 0;
+}
+.div119,
+.nh-cung-cp2,
+.trang-ch23 {
+  position: absolute;
+  top: 59.11px;
+  left: 93px;
+  display: inline-block;
+  width: 98px;
+  height: 17.92px;
+}
+.div119,
+.nh-cung-cp2 {
+  top: 60.17px;
+  left: 203px;
+  width: 147px;
+}
+.div119 {
+  top: 59.11px;
+  left: 304px;
+  text-align: center;
+  width: 24px;
+  height: 23.19px;
+}
+.group-child75 {
+  position: absolute;
+  top: 0;
+  left: 845px;
+  border-radius: var(--br-8xs);
+  width: 282px;
+  height: 63.25px;
+}
+.image-44-icon3 {
+  position: absolute;
+  top: 9.49px;
+  left: 856.5px;
+  width: 58.87px;
+  height: 45.26px;
+  object-fit: cover;
+}
+.image-56,
+.sa-nh-cung {
+  position: absolute;
+  top: 192.17px;
+  left: 674px;
+  width: 38px;
+  height: 45.33px;
+}
+.sa-nh-cung {
+  top: 23.19px;
+  left: 937.5px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 221px;
+  height: 17.92px;
+}
+.vector-container {
+  position: absolute;
+  top: 17px;
+  left: 292px;
+  width: 1158.5px;
+  height: 1007px;
+  font-size: var(--font-size-mini);
+}
+.image-95-icon {
+  position: absolute;
+  top: 15px;
+  left: 307px;
+  width: 59px;
+  height: 82px;
+  object-fit: cover;
+}
+.group-child76 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-goldenrod);
+  width: 292px;
+  height: 1024px;
+}
+.trang-ch24 {
+  position: absolute;
+  top: 29px;
+  left: 91px;
+  display: inline-block;
+  width: 154.33px;
+  height: 15.18px;
+  cursor: pointer;
+}
+.qun-l-hng11 {
+  margin: 0;
+}
+.qun-l-hng-container11,
+.qun-l-xut-container11 {
+  position: absolute;
+  top: 68.28px;
+  left: 91px;
+  display: inline-block;
+  width: 153.32px;
+  height: 20.53px;
+  cursor: pointer;
+}
+.qun-l-xut-container11 {
+  top: 156.66px;
+  left: 92px;
+  height: 19.64px;
+}
+.qun-l-nhp11 {
+  top: 200.41px;
+  left: 92px;
+}
+.qun-l-loi-container11,
+.qun-l-nh9,
+.qun-l-nhp11,
+.qun-l-ti13,
+.thng-k14 {
+  position: absolute;
+  display: inline-block;
+  width: 153.32px;
+  height: 15.18px;
+  cursor: pointer;
+}
+.qun-l-nh9 {
+  top: 239.69px;
+  left: 92px;
+  color: var(--color-white);
+}
+.qun-l-loi-container11,
+.qun-l-ti13,
+.thng-k14 {
+  top: 278.97px;
+  left: 93px;
+}
+.qun-l-loi-container11,
+.qun-l-ti13 {
+  top: 318.25px;
+  height: 16.07px;
+}
+.qun-l-loi-container11 {
+  top: 112.92px;
+  left: 91px;
+  width: 133px;
+  height: 16.96px;
+}
+.rectangle-parent29 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 292px;
+  height: 1024px;
+  cursor: pointer;
+  font-size: var(--font-size-xs);
+}
+.qun-l-nha-cung-cp {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
